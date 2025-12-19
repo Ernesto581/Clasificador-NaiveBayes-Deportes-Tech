@@ -57,9 +57,8 @@ proyecto/
 │   ├── modules/         # Lógica de ML (Algoritmo y Preprocesamiento)
 │   ├── streamlit_app.py # App Web Visual
 │   └── main.py          # App de Escritorio
-├── data/                # Datasets de ejemplo
-├── INFORME.md           # Informe Académico Detallado
-└── GUIA_EXPOSICION.md   # Guion de presentación
+└── data/                # Datasets de ejemplo
+
 ```
 
 ---
