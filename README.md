@@ -64,11 +64,14 @@ python src/main.py
 ## 📂 Estructura del repositorio
 ```text
 proyecto/
+├── data/                # 💾 Archivos .txt de ejemplo y dataset generado
 ├── src/
-│   ├── modules/         # Lógica de ML (Algoritmo y Preprocesamiento)
-│   ├── streamlit_app.py # App Web Visual
-│   └── main.py          # App de Escritorio
-└── data/                # Datasets de ejemplo
+│   ├── gui/             # 🖥️ Interfaz de Escritorio (Componentes Tkinter)
+│   ├── modules/         # 🧠 Cerebro: Algoritmo Bayes, Preprocesamiento y Generadores
+│   ├── utils/           # 🛠️ Utilidades: Manejo de errores y guardado de modelos
+│   ├── streamlit_app.py # 🌐 Punto de entrada Web (Streamlit)
+│   └── main.py          # 🚪 Punto de entrada Escritorio
+               
 
 ```
 
