@@ -18,8 +18,19 @@
 
 ---
 
-## 📋 Descripción del Proyecto
-Este sistema implementa un **Clasificador Naive Bayes Multinomial** capaz de distinguir automáticamente documentos e informes basándose en su contenido semántico. Combina una arquitectura de Machine Learning robusta con una interfaz visual moderna.
+## 📖 Sobre el Proyecto
+
+**¿Alguna vez te has preguntado cómo una máquina entiende el significado de un texto?** 🤔
+
+Este proyecto es una implementación práctica y visual de esa capacidad. Utilizando el algoritmo **Multinomial Naive Bayes**, hemos desarrollado un sistema inteligente capaz de analizar el contenido semántico de cualquier documento y clasificarlo instantáneamente entre **Deportes** ⚽ y **Tecnología** 💻.
+
+**Lo que hace diferente a este proyecto:**
+Más allá de un simple script, hemos construido una **herramienta completa de análisis**:
+*   🧠 **Aprendizaje Profundo (pero simple):** Transforma palabras en vectores matemáticos (TF-IDF) para encontrar patrones ocultos.
+*   ⚡ **Rendimiento Visual:** No es una caja negra. A través de nuestra interfaz web, puedes ver exactamente *por qué* el modelo toma sus decisiones (Matriz de Confusión y Feature Importance).
+*   🛠️ **Flexibilidad Total:** Entrena con nuestros generadores sintéticos o pon a prueba el sistema con tus propios datos reales.
+
+> *Un puente entre la teoría de Recuperación de Información y la aplicación práctica moderna.*
 
 ## ✨ Características Principales
 *   **Doble Interfaz:**
@@ -63,5 +74,5 @@ proyecto/
 
 ---
 <div align="center">
-    <sub>Desarrollado para la asignatura de Recuperación de Información - 2024</sub>
+    <sub>Desarrollado para la asignatura de Sistemas de Información - 2025</sub>
 </div>
